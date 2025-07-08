@@ -30,7 +30,7 @@ The project uses the following dependency in `pom.xml`:
     <artifactId>postgresql</artifactId>
     <version>42.6.0</version>
 </dependency>
-
+```
 ✅ Prerequisites
 Before running the project, make sure you have:
 
@@ -41,3 +41,68 @@ Apache Maven 3.8.6 or higher
 PostgreSQL 15 or higher
 
 A PostgreSQL database named javaproject with the following table:
+```
+CREATE TABLE studentdetails (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    age INT NOT NULL,
+    course VARCHAR(100) NOT NULL,
+    marks NUMERIC(5,2) NOT NULL
+);
+```
+💻 Features
+➕ Add Student
+
+✏️ Update Student by ID
+
+📃 Show All Students
+
+📤 Export student records to .csv file
+
+📥 Import student records from .csv file
+
+🧵 Background Tip Thread (every 10 mins)
+
+🚀 Running the Project
+Clone the repo:
+
+```
+git clone https://github.com/your-username/menuapp.git
+```
+Open the project in Eclipse or any Java IDE
+
+Make sure PostgreSQL is running and DB is created
+
+Click Run → Java Application or use terminal:
+
+```
+mvn compile
+mvn exec:java -Dexec.mainClass="com.javaproject.app.StudentManagement"
+```
+📁 File Structure
+
+```
+
+menuapp/
+├── src/
+│   └── main/
+│       └── java/
+│           └── com.javaproject.app/
+│               ├── DBConnection.java
+│               └── StudentManagement.java
+├── pom.xml
+├── README.md
+
+
+```
+📬 Contact
+For any queries or feedback, feel free to reach out:
+
+Parth Pramod Bagale
+📧 parthbagale14@gmail.com
+📍 Badlapur, Maharashtra
+
+
+
+
+
