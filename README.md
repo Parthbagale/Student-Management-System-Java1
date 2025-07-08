@@ -30,3 +30,14 @@ The project uses the following dependency in `pom.xml`:
     <artifactId>postgresql</artifactId>
     <version>42.6.0</version>
 </dependency>
+
+✅ Prerequisites
+Before running the project, make sure you have:
+
+Java Development Kit (JDK) 17 or higher
+
+Apache Maven 3.8.6 or higher
+
+PostgreSQL 15 or higher
+
+A PostgreSQL database named javaproject with the following table:
