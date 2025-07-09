@@ -63,22 +63,7 @@ CREATE TABLE studentdetails (
 
 🧵 Background Tip Thread (every 10 mins)
 
-🚀 Running the Project
-Clone the repo:
 
-```
-git clone https://github.com/your-username/menuapp.git
-```
-Open the project in Eclipse or any Java IDE
-
-Make sure PostgreSQL is running and DB is created
-
-Click Run → Java Application or use terminal:
-
-```
-mvn compile
-mvn exec:java -Dexec.mainClass="com.javaproject.app.StudentManagement"
-```
 📁 File Structure
 
 ```
