@@ -1,5 +1,8 @@
 # Student-Management-System-Java1
 A console-based student management system using Java, JDBC, PostgreSQL, file I/O, and Maven.
+Group member
+Parth Pramod Bagale
+Sanchit Sanjay Kale
 # 🎓 Student Management System
 
 ![Java](https://img.shields.io/badge/Java-17-blue) 
@@ -80,6 +83,13 @@ menuapp/
 
 
 ```
+#Project Screenshots
+
+
+![Uploading Screenshot 2025-07-10 191818.png…]()
+
+<img width="1853" height="611" alt="Screenshot 2025-07-10 191906" src="https://github.com/user-attachments/assets/101049d6-1d5d-46b3-a56d-90ce81bba8fc" />
+
 📬 Contact
 For any queries or feedback, feel free to reach out:
 
