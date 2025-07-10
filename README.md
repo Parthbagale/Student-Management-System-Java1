@@ -105,7 +105,7 @@ For any queries or feedback, feel free to reach out:
 Parth Pramod Bagale
 📧 parthbagale14@gmail.com
 
-📧 sanchitkale45@gmai.com
+📧 sanchitkale452@gmai.com
 
 📍 Badlapur, Maharashtra
 
