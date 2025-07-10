@@ -86,9 +86,12 @@ menuapp/
 #Project Screenshots
 
 
-![Uploading Screenshot 2025-07-10 191818.png…]()
+<img width="1859" height="854" alt="Screenshot 2025-07-10 191818" src="https://github.com/user-attachments/assets/26797e55-355c-45ee-9527-abd93edbe33b" />
 
-<img width="1853" height="611" alt="Screenshot 2025-07-10 191906" src="https://github.com/user-attachments/assets/101049d6-1d5d-46b3-a56d-90ce81bba8fc" />
+
+
+<img width="1853" height="611" alt="Screenshot 2025-07-10 191906" src="https://github.com/user-attachments/assets/e9860962-7483-458b-ac9a-4d103a826608" />
+
 
 📬 Contact
 For any queries or feedback, feel free to reach out:
