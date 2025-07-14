@@ -9,6 +9,8 @@ Parth Pramod Bagale
 
 
 Sanchit Sanjay Kale
+
+Kartik Shankar Gade 
 # 🎓 Student Management System
 
 ![Java](https://img.shields.io/badge/Java-17-blue) 
